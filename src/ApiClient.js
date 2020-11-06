@@ -356,7 +356,7 @@
   
     // Code added by Infosys dev team
 
-  var AuthenticationSDK = require('cybersource-rest-auth');
+  var AuthenticationSDK = require('@catchfashion/cybersource-rest-auth');
   /**
    * This method will set the merchantConfig object global
    * 
